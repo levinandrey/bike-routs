@@ -1,3 +1,6 @@
+![](https://levinandrey.files.wordpress.com/2019/05/staritsa-volga-prokudin-g.jpg)
+
+
 
 Логистика немного сложна. Возможно ехать только в эту сторону, т.к. Движения на Зубцов --> Мск происходит только рано утром. 
 Доехать можно до Зубцова утром только на электричках от Москвы. На ПДС доехать можно только вечером.
@@ -28,6 +31,10 @@ https://rasp.yandex.ru/suburban/shahovskaya--zubtsov-train-station
  
 
 ## Зубцов - Старица
+
+![](https://levinandrey.files.wordpress.com/2019/05/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-05-04-d0b2-23.12.30.png)
+
+
 [](https://www.strava.com/routes/18585257)
 
 **Guesthouse**
@@ -39,6 +46,8 @@ https://rasp.yandex.ru/suburban/shahovskaya--zubtsov-train-station
 
 # Day 2.
 ## Старица - Тверь
+
+![](https://levinandrey.files.wordpress.com/2019/05/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-05-04-d0b2-23.12.52.png)
 
 [](https://www.strava.com/routes/17337486)
 
