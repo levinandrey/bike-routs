@@ -1,11 +1,36 @@
 
-# Day 1.
-## Москва - Зубцев
+Логистика немного сложна. Возможно ехать только в эту сторону, т.к. Движения на Зубцов --> Мск происходит только рано утром. 
+Доехать можно до Зубцова утром только на электричках от Москвы. На ПДС доехать можно только вечером.
 
-## Зубцев - Старица
+
+# Day 1.
+
+
+
+**Мск --> Шаховская**
+На электричке по Рижскому направлению до Шаховская
+
+https://rasp.yandex.ru/suburban/moscow--shahovskaya
+
+![](https://levinandrey.files.wordpress.com/2019/05/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-05-04-d0b2-23.22.12.png)
+
+
+
+
+**Шаховская --> Зубцов**
+
+https://rasp.yandex.ru/suburban/shahovskaya--zubtsov-train-station
+
+![](https://levinandrey.files.wordpress.com/2019/05/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-05-04-d0b2-23.21.32.png)
+
+ 
+ 
+ 
+
+## Зубцов - Старица
 [](https://www.strava.com/routes/18585257)
 
-## Guesthouse
+**Guesthouse**
 
 В Cтарице на букинге только 2 аппартамента.
 
@@ -13,12 +38,15 @@
 
 
 # Day 2.
-
 ## Старица - Тверь
 
 [](https://www.strava.com/routes/17337486)
 
-## Тверь - Москва
+**Тверь --> Москва**
 
 Садимся вечером на ласточку до Мск.
+
+https://rasp.yandex.ru/suburban/tver-train-station--moscow
+
+![](https://levinandrey.files.wordpress.com/2019/05/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-05-04-d0b2-23.22.50.png)
 
