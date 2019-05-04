@@ -56,9 +56,11 @@ http://xn--90ac0ambh1f.xn--p1ai/derevenka/
 * снять дом в будни  6 000 руб./сутки/4 человека
 * снять дом в выходной 9 000 руб./сутки/4 человека
 
-#### Простой кемпинг  + 4 км
+#### Кемпинг Свистуново + 4 км
 
 ![](https://levinandrey.files.wordpress.com/2019/05/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-05-04-d0b2-23.44.43.png)
+
+3000 рублей
 
 https://www.booking.com/hotel/ru/svistunovo-camping.ru.html
 
