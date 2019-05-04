@@ -40,11 +40,27 @@ https://rasp.yandex.ru/suburban/shahovskaya--zubtsov-train-station
 
 https://www.strava.com/routes/18585257
 
-**Guesthouse**
 
-В Cтарице на букинге только 2 аппартамента.
+## Ночь
+
+В Cтарице на букинге только 2 апартамента.
 
 Ниже по волге +2 км имеется замечательные дома на берегу Волги.
+
+#### Усадьба Рыблово котедж + 2 км
+
+![](https://levinandrey.files.wordpress.com/2019/05/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-05-04-d0b2-23.47.30.png)
+
+http://xn--90ac0ambh1f.xn--p1ai/derevenka/
+
+* снять дом в будни  6 000 руб./сутки/4 человека
+* снять дом в выходной 9 000 руб./сутки/4 человека
+
+#### Простой кемпинг  + 4 км
+
+![](https://levinandrey.files.wordpress.com/2019/05/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-05-04-d0b2-23.44.43.png)
+
+https://www.booking.com/hotel/ru/svistunovo-camping.ru.html
 
 
 # Day 2.
