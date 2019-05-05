@@ -18,12 +18,12 @@
 
 
 ### Фотографии мест из интерента
-![](https://avatars.mds.yandex.net/get-ugc/399327/2a0000015fb12f162f3f06ff3fb0ed1ac381/X5L | width=500)
-![](https://avatars.mds.yandex.net/get-ugc/900870/2a0000015fb29a0d4f3a8782f0ca715df390/X5L | width=500)
-![](https://icdn.lenta.ru/images/2018/03/15/13/20180315134925163/preview_f0ccfec62db4d11c400cf42b900b6c28.jpg | width=500)
-![](https://xn--e1abcgakjmf3afc5c8g.xn--p1ai/upload/resize_cache/main/2fd/800_800_1/2fd5d3aa5a21b903e82cf1f8f8e91e59.jpg | width=500)
-![](https://i.pinimg.com/736x/a3/3b/7b/a33b7bef50d72870da4e6fb71f415aaa--russian-architecture.jpg | width=500)
-![](https://avatars.mds.yandex.net/get-ugc/872439/2a0000015fb145dc836622d7ffadc6fbba7e/X5L | width=500)
+![](https://avatars.mds.yandex.net/get-ugc/399327/2a0000015fb12f162f3f06ff3fb0ed1ac381/X5L)
+![](https://avatars.mds.yandex.net/get-ugc/900870/2a0000015fb29a0d4f3a8782f0ca715df390/X5L)
+![](https://icdn.lenta.ru/images/2018/03/15/13/20180315134925163/preview_f0ccfec62db4d11c400cf42b900b6c28.jpg)
+![](https://xn--e1abcgakjmf3afc5c8g.xn--p1ai/upload/resize_cache/main/2fd/800_800_1/2fd5d3aa5a21b903e82cf1f8f8e91e59.jpg)
+![](https://i.pinimg.com/736x/a3/3b/7b/a33b7bef50d72870da4e6fb71f415aaa--russian-architecture.jpg)
+![](https://avatars.mds.yandex.net/get-ugc/872439/2a0000015fb145dc836622d7ffadc6fbba7e/X5L)
 ![](https://avatars.mds.yandex.net/get-ugc/901836/2a0000015fb740c0f82c7176df912d499ee9/X5L)
 ![](https://avatars.mds.yandex.net/get-ugc/900870/2a0000015fb29a0d4f3a8782f0ca715df390/X5L)
 ![](https://avatars.mds.yandex.net/get-ugc/773255/2a0000015fb2a1d5811602003db6e833d5bb/X5L)
