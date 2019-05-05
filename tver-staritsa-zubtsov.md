@@ -1,4 +1,4 @@
-# Веломаршрут Зубцов - Старица - Тверь. 2 полных дня
+# Веломаршрут Зубцов - Старица - Тверь на 2 дня
 
 ![](https://levinandrey.files.wordpress.com/2019/05/staritsa-volga-prokudin-g.jpg)
 
