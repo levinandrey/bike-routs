@@ -63,7 +63,6 @@ https://rasp.yandex.ru/suburban/shahovskaya--zubtsov-train-station
 
 https://www.strava.com/routes/18585257
 
-<iframe src="https://www.strava.com/routes/18585257" height="500px" width="400px"></iframe>
 
 ## Ночь
 
