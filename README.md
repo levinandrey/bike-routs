@@ -59,5 +59,5 @@
 
 * - Done!
 
-See and copy emoji -- https://www.emojicopy.com/
+See and copy emoji - https://www.emojicopy.com/
 
