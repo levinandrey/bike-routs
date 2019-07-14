@@ -2,15 +2,15 @@
 
 ### На полдня
 - [Дмитров - Яхрома - Деденево 36 км.](https://www.strava.com/routes/15133399)
-- [Долгопрудный - Коптево 25 км. DONE! ](https://www.strava.com/routes/18523786)
-- [Кокошкиино - Подольск 48 км. DONE! ](https://www.strava.com/routes/16639737)
+- [* Долгопрудный - Коптево 25 км. DONE! ](https://www.strava.com/routes/18523786)
+- [* Кокошкиино - Подольск 48 км. DONE! ](https://www.strava.com/routes/16639737)
 - [Раменское - DME 45 км.](https://www.strava.com/routes/16639672) 
 - [Тарковская - Долгопрудный 30 км. можно начать от Загорска](https://www.strava.com/routes/18523928)
 
 
 ### На весь день
 
-- [Бородино - Можайск 45 км. Done!](https://www.strava.com/routes/15133081)
+- [* Бородино - Можайск 45 км. Done!](https://www.strava.com/routes/15133081)
 - [Вязьма - Гагарин 90 км. ](https://www.strava.com/routes/16767454)
 - [Владимир - Нерль - Суздаль 80 км.](https://www.strava.com/routes/15129863)
 - [Кимры - Первое Мая 60 км.](https://www.strava.com/routes/16638214)
@@ -31,7 +31,7 @@
 
 
 ### На два дня
-- Большая Волга - Мышкин - Углич
+- * Большая Волга - Мышкин - Углич
   - [](-)
   - [](-)
 
