@@ -22,7 +22,7 @@
 - [Коломна - Ступино (75 км.)](kolomna-stupino.md)
 - [Коломна - Зарайск - Озера (...)](https://www.strava.com/routes/15132167)
 - [Лихославль - Торжок (...)](https://www.strava.com/routes/15130089)
-- [Переславль - Плещеево озеро (86 км.](https://www.strava.com/routes/15129981)
+- [Переславль - Плещеево озеро (86 км.)](https://www.strava.com/routes/15129981)
 - [Ростов - Борисоглебский - Неро (??) ](https://www.strava.com/routes/15129947)
 - [Рыбное - Константиново - Луховицы (84 км.)](https://www.strava.com/routes/15198844) 
 - [Серпухов - Ступино (68 км.)](stupino-serpuhov.md)
