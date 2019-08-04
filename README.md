@@ -1,5 +1,5 @@
-# Strava
-[Strava andreylevin](https://www.strava.com/athletes/andreylevin)
+## Strava
+[https://www.strava.com/athletes/andreylevin](https://www.strava.com/athletes/andreylevin)
 
 
 
@@ -9,7 +9,8 @@
 - [Дмитров - Яхрома - Деденево (36 км.)](https://www.strava.com/routes/15133399)
 - [🗽 Долгопрудный - Коптево (25 км.)](https://www.strava.com/routes/18523786)
 - [🦁 Кокошкиино - Подольск (48 км.)](https://www.strava.com/routes/16639737)
-- [Раменское - DME (45 км.)](https://www.strava.com/routes/16639672) 
+- ✈️ [Раменское - DME (45 км.)](https://www.strava.com/routes/16639672)
+  - track: [https://www.strava.com/activities/2591109123](https://www.strava.com/activities/2591109123)
 - [Тарковская - Долгопрудный (30 км.) можно начать от Загорска](https://www.strava.com/routes/18523928)
 
 
