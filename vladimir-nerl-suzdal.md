@@ -1,4 +1,4 @@
-# Владимир - Нерль - Суздаль
+# Владимир - Нерль - Суздаль (80 км.)
 
 [https://www.strava.com/routes/15129863](https://www.strava.com/routes/15129863)
 
