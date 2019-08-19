@@ -70,6 +70,11 @@ https://www.strava.com/routes/18585257
 
 В этой части Тверской области с проживанием проблема, очень мало. Для наглядности можно оценить на карте.
 
+400 метров до Волги, ну так, норм
+
+https://www.booking.com/hotel/ru/svistunovo-camping.ru.html
+
+
 ![](https://levinandrey.files.wordpress.com/2019/05/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-05-04-d0b2-23.56.14.png)
 
 #### Усадьба Рыблово котедж + 2 км
