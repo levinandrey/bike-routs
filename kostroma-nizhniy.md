@@ -100,6 +100,11 @@ https://www.strava.com/routes/17329153
 
 ![](https://levinandrey.files.wordpress.com/2019/02/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-02-26-d0b2-20.42.53.png?w=640)
 
+### Или от Линды до НН
+
+https://rasp.yandex.ru/all-transport/linda--nizhny-novgorod
+
+
 
 ### Нижний — Москва:
  ![](https://levinandrey.files.wordpress.com/2019/02/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2019-02-26-d0b2-20.41.40.png?w=640)
