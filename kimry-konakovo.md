@@ -36,6 +36,8 @@
 = max = 
 
 
+UPD https://www.strava.com/routes/21658272
+
 Не весь https://www.strava.com/routes/16638214
 ~ + 20-30 км
 
