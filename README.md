@@ -3,7 +3,7 @@
 
 ## Маршруты на карте
 
-https://yandex.ru/maps/?um=constructor%3A12254194b1af90d213bc50995291b44fb87966818cd8966daf5efe5491d20b86&source=constructorLink
+ - myBikeRoutesU2  - https://yandex.ru/maps/?um=constructor%3A12254194b1af90d213bc50995291b44fb87966818cd8966daf5efe5491d20b86&source=constructorLink
 
 ### Plan
 
