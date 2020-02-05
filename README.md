@@ -35,6 +35,7 @@
 ### На весь день
 
 - [🍓 Бородино - Можайск (45 км.)](https://www.strava.com/routes/15133081)
+- [Алексин - Серпухов (72 км.)](https://github.com/levinandrey/bike-routs/blob/master/aleksin-tarusa-serpuhov.md)
 - [Вязьма - Гагарин (90 км.)](https://www.strava.com/routes/16767454)
 - [Владимир - Нерль - Суздаль (80 км.)](vladimir-nerl-suzdal.md)
 - 🤟 [Волоколамск - Руза - Кубинка (93 км.)](volokolamsk-rusa-kubinka.md)
