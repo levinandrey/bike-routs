@@ -3,13 +3,13 @@
 
 ## Маршруты на карте
 
-my Strava Bike Routes U-2020-03-06
+#### My Strava Bike Routes map U-2020-03-06 ####
+
+https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f850751c63ae5007ee90ed7be4e3bd&source=constructorLink
  
-  - past activities - green 
-  - this year activities - red 
-  - future routes - blue
- 
- https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f850751c63ae5007ee90ed7be4e3bd&source=constructorLink
+ - past activities - green 
+ - this year activities - red 
+ - future routes - blue
 
 ### Plan
 
