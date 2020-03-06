@@ -29,6 +29,8 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 ### На полдня
 
+- [Дорохово - Звенигород (62 км.)](https://www.strava.com/routes/24240798)
+
 - [Дмитров - Яхрома - Деденево (36 км.)](https://www.strava.com/routes/15133399)
 
 - [🗽 Долгопрудный - Коптево (25 км.)](https://www.strava.com/routes/18523786)
@@ -103,6 +105,8 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 - 🤟 [Тверь - Конаково (..)]()
 
 - 🤟[Зубцов - Тверь ](tver-staritsa-zubtsov.md)
+
+- [Вдоль Невы (100 км.)](https://www.strava.com/routes/24226734)
 
 - [Новгород - Старая Русса (97 км.)](novgorod-straya-ryssa.md)
 
