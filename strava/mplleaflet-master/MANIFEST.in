@@ -1,5 +1,0 @@
-include *.md
-
-include mplleaflet/templates/*.html
-recursive-include mplleaflet *.py
-recursive-include mplexporter *.py
