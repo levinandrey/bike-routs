@@ -3,7 +3,13 @@
 
 ## Маршруты на карте
 
- - myBikeRoutesU2  - https://yandex.ru/maps/?um=constructor%3A12254194b1af90d213bc50995291b44fb87966818cd8966daf5efe5491d20b86&source=constructorLink
+my Strava Bike Routes U-2020-03-06
+ 
+  - past activities - green 
+  - this year activities - red 
+  - future routes - blue
+ 
+ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f850751c63ae5007ee90ed7be4e3bd&source=constructorLink
 
 ### Plan
 
