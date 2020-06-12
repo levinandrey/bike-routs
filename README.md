@@ -15,7 +15,11 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 - Нара - По м реке
 
-- Обнинск - Можайск 
+- Обнинск - Можайск
+
+ 7:05
+ 
+ 7:48
 
 - Истра - ?
 
@@ -23,13 +27,14 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 - Белый г - Загорск
 
-later
+#### later
 
 - Владимир - Нерль - Суздаль (80 км.)
 
 - Рыбное - Константиново - Луховицы (84 км.)
 
 - Калуга - Серпухов 107
+
     https://www.strava.com/routes/28582042
     
     7:48 - 10:23
