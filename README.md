@@ -32,6 +32,8 @@ later
 - Калуга - Серпухов 107
     https://www.strava.com/routes/28582042
     
+    7:48 - 10:23
+    
 
 - ЯП
 
