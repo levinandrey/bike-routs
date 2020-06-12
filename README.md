@@ -42,7 +42,10 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 - ЯП
 
+ ?
+
 - Зарайск
+ 
 
 - Вязьма - Гагарин
 
@@ -88,7 +91,7 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 ### На весь день
 
-- [🍓 Бородино - Можайск (45 км.)](https://www.strava.com/routes/15133081)
+- 🍓 [Бородино - Можайск (45 км.)](https://www.strava.com/routes/15133081)
 
 - [Алексин - Серпухов (72 км.)](aleksin-tarusa-serpuhov.md)
 
@@ -100,7 +103,7 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 - 🤟 [Волоколамск - Руза - Кубинка (93 км.)](volokolamsk-rusa-kubinka.md)
 
-- 🤟[Кимры - Первое Мая (60 км.)](https://www.strava.com/routes/16638214)
+- 🤟 [Кимры - Первое Мая (60 км.)](https://www.strava.com/routes/16638214)
 
 - Кимры - Белый городок - Вербилки
   
@@ -110,7 +113,7 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 - [Клин - Солнечногорск (62 км.)](https://www.strava.com/routes/15129680)
 
-- 🤟[Коломна - Егорьевск - Куровское (91 км.)](kolomna-kurovskoe.md)
+- 🤟 [Коломна - Егорьевск - Куровское (91 км.)](kolomna-kurovskoe.md)
 
 - 🙈 [Коломна - Ступино (82 км.)](kolomna-stupino.md)
 
@@ -146,7 +149,7 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 - 🤟 [Тверь - Конаково (..)]()
 
-- 🤟[Зубцов - Тверь ](tver-staritsa-zubtsov.md)
+- 🤟 [Зубцов - Тверь ](tver-staritsa-zubtsov.md)
 
 - [Вдоль Невы (100 км.)](https://www.strava.com/routes/24226734)
 
