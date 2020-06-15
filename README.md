@@ -40,8 +40,6 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 - ЯП (?)
 
- ?
-
 - Зарайск (76)
 
 - Вязьма - Гагарин (90)
