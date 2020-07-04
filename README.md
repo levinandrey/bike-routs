@@ -146,6 +146,8 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 - 🤟 [Обнинск - Серпухов (76 км.)](https://www.strava.com/routes/15163010)
 
+- 🤟 [Обнинск - Можайск - Шаликово (~ 90 км.)](https://www.strava.com/activities/3706985840)
+
 - 🤟 [Переславль - Плещеево озеро (86 км.)](pereslavl-plesheevov-ozero.md) https://www.strava.com/activities/2621450093
 
 - 🐃 [Серпухов - Ступино (68 км.)](stupino-serpuhov.md)
