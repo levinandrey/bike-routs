@@ -185,7 +185,7 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 - #### [Кострома - Нижний новгород](kostroma-nizhniy.md)
   
   - Кострома - Плес
-    
+  
     - [Кострома - Плес через Красное на Волге 77 км](https://www.strava.com/routes/17328744)
     
     - [Кострома - Плес (50 км.)](https://www.strava.com/routes/17328589)
