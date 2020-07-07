@@ -93,8 +93,6 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
 
 
-
-
   - Обратно
    
      - Осташков - Бологое (14:20 - 17:05) 
@@ -102,6 +100,7 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
      - Ласточка Спб - Москва (18:00 - 21:58)
      
      - Сапсан (19:02 - 21:02)
+
 
 - [Псков, Печоры и Пушкинские горы]()
 
