@@ -52,10 +52,6 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
   - 🚂 
   
 - [Калуга - Серпухов (107 км.)](https://www.strava.com/routes/28582042) 
-  
-- [Владимир - Нерль - Суздаль (80 км.)](vladimir-nerl-suzdal.md)
-
-  - 🚂 
 
 - [Кимры - Калязин - Кашин (162 км.)](https://www.strava.com/routes/2708084790847931776)
 
@@ -170,6 +166,8 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 - 🙈 [Коломна - Ступино (82 км.)](kolomna-stupino.md)
 
 - 🏖️ [Коломна - Зарайск - Озера (76 км.)](https://www.strava.com/activities/3722057230)
+
+- 🔥 [Владимир - Нерль - Суздаль (120 км.)](https://www.strava.com/activities/3733256698)
 
 - 👐 [Лихославль - Торжок (43 км. по дебрям)](https://www.strava.com/routes/15130089)
 
