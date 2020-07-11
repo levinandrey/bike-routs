@@ -107,6 +107,8 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
    - [Псков - Пушкинские Горы - Локна. 2 дня (116 км. + 91 км.)](pskov-pushkinskiyegory-loknya.md)
 
 
+- [Нижний Новгоро - Городец (100 + 80) на 2 дня]
+
 #### Неясно
 
 - [Вязьма - Гагарин (90 км.)](https://www.strava.com/routes/16767454)
