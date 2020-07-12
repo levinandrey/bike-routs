@@ -50,8 +50,6 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 - [Мятлево - Николо-Ленивец - Калуга (94 км.)](mytlevo-nokolo-lenivets-kaluga.md)
 
   - 🚂 
-  
-- [Калуга - Серпухов (107 км.)](https://www.strava.com/routes/28582042) 
 
 - [Кимры - Калязин - Кашин (162 км.)](https://www.strava.com/routes/2708084790847931776)
 
@@ -176,6 +174,8 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 - 🤟 [Обнинск - Серпухов (76 км.)](https://www.strava.com/routes/15163010)
 
 - 🤟 [Обнинск - Можайск - Шаликово (~ 90 км.)](https://www.strava.com/activities/3706985840)
+
+- 🤟 [Калуга - Серпухов (107 км.)](https://www.strava.com/routes/28582042) 
 
 - 🤟 [Переславль - Плещеево озеро (86 км.)](pereslavl-plesheevov-ozero.md) https://www.strava.com/activities/2621450093
 
