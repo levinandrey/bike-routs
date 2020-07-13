@@ -45,6 +45,10 @@ https://altertravel.ru/view.php?id=892
 
 ![](http://www.petersburg-bridges.ru/files/2019/06/IMG_20190611_122317-750x563.jpg)
 
+### Крепость Высоцк
+
+![](https://droogie.ru/wp-content/uploads/2016/07/krepostj-trongzund-vysock-4-600x450.jpg)
+
 ### Зеленогорск
 
 
