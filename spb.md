@@ -14,20 +14,42 @@ wikimapia ip адрес с работающим спутниковым слое�
 
 ## Места 
 
-#### Петрокрепость Орешек
+### Крепость Орешек, Петрокрепость, Ладога
 
-  ! Студенческий билет
+![](https://avatars.mds.yandex.net/get-zen_doc/153246/pub_5e3055deaae5af326295e4e3_5e305b7a28a79920baedc14d/scale_1200)
 
 
-### Выборг
+  - https://www.spbmuseum.ru/themuseum/museum_complex/oreshek_fortress/
+  
+  - ! Студенческий билет
+  
+  - Паром - https://petrokrepost.ru/
 
-### Приозерск
+
+### Крепость Корела - Приозерск
+
+![](https://www.spb-guide.ru/img/15201/89455.jpg)
+
+
+### Выборг - Монрепо (Отдельно на острове)
+
+![](https://stnews.ru/uploads/posts/2019-04/medium/1555354968224d7adfaee3f9b15a162d704.jpg)
+
+![](https://avatars.mds.yandex.net/get-pdb/231404/416cde64-a0af-4333-b2b4-dc85092c0492/s375)
+
+https://altertravel.ru/view.php?id=892
+
+### Заказник “Линдуловская лиственничная роща”, Выборгский район
+
+![](https://allovertheus.ru/wp-content/uploads/e/5/b/e5bddf6ef73329ead071c95d6b207cf0.jpg)
+
+![](http://www.petersburg-bridges.ru/files/2019/06/IMG_20190611_122317-750x563.jpg)
 
 ### Зеленогорск
 
-### Крепость Орешек
 
-![](https://avatars.mds.yandex.net/get-zen_doc/153246/pub_5e3055deaae5af326295e4e3_5e305b7a28a79920baedc14d/scale_1200)
+
+
 
 ## Электрички
 
