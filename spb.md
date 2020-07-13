@@ -39,6 +39,11 @@ wikimapia ip адрес с работающим спутниковым слое�
 
 https://altertravel.ru/view.php?id=892
 
+### Кирха в Приморске
+
+![](https://altertravel.ru/cache/images_full/4/492f1a6c4e794f98cad67ae755e8c749.jpg)
+
+
 ### Заказник “Линдуловская лиственничная роща”, Выборгский район
 
 ![](https://allovertheus.ru/wp-content/uploads/e/5/b/e5bddf6ef73329ead071c95d6b207cf0.jpg)
