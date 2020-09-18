@@ -17,7 +17,7 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
  - [Вокруг Москвы реки (170 км.)](https://www.strava.com/routes/25158685)
 
- - [Вокруг Водохранилищ канала Москвы (109 км.)](https://www.strava.com/routes/28000379)
+ - [Вокруг Водохранилищ канала Москвы (осталось по низу) (< 100)](https://www.strava.com/routes/28000379)
 
  - [Дорохово - Звенигород (62 км.)](https://www.strava.com/routes/24240798)
 
@@ -37,18 +37,19 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
    - Продумать маршрут, разные варианты.
 
+   - [Талдом - Сергиев Посад](https://www.strava.com/routes/16638140)
 
- - [Талдом - Сергиев Посад](https://www.strava.com/routes/16638140)
+   - [Савелово - Белый городок - Талдом](https://www.strava.com/routes/15132567)
 
- - [Савелово - Белый городок - Талдом](https://www.strava.com/routes/15132567)
-
- - [Белый городок - Вербилки](https://www.strava.com/routes/22090769)
+   - [Белый городок - Вербилки](https://www.strava.com/routes/22090769)
+   
+   
 
  - [Спб. - Кронштад - вокруг финского](https://www.strava.com/routes/2713542268156745238)  
 
  - [Спб. По реке Волхов. Новая Ладога - Волхов - Кириши - Чудово (140 км.) Жестко по времени! ](volhov.md)
 
-   <- Обратно: сапсан Чудово -> Мск
+   - <- Обратно: сапсан Чудово -> Мск
   
 
  - [ЯП - Тула  - (?) ](/)
