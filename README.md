@@ -19,8 +19,6 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
  - [Вокруг Москвы реки (170 км.)](https://www.strava.com/routes/25158685)
 
- - [Вокруг Водохранилищ канала Москвы (осталось по низу) (< 100)](https://www.strava.com/routes/28000379)
-
  - [Дорохово - Звенигород (62 км.)](https://www.strava.com/routes/24240798)
 
  - [Нара-Фоминск - Кубинка - Звенигород ( 60 +30 км.)](https://www.strava.com/routes/28491622)
