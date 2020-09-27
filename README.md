@@ -12,10 +12,8 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
  - future routes - blue
  
 ## В скором времени
-
--  [Ленинские горки - Совхоз - Осров - река М.](/)
-
-- [По Яузе](/)
+ 
+ - [Влоль Яузы](/)
 
  - [Вокруг Москвы реки (170 км.)](https://www.strava.com/routes/25158685)
 
@@ -24,8 +22,6 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
  - [Нара-Фоминск - Кубинка - Звенигород ( 60 +30 км.)](https://www.strava.com/routes/28491622)
 
  - [Вокруг Истринского вдхр (126 км.)](https://www.strava.com/routes/2712771319108920160)
-
-   - Посмотреть места
    
  - [Солнечногорск - Дмитров (62 км.)](https://www.strava.com/routes/2745051761211813214)   
   
