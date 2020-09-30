@@ -12,8 +12,6 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
  - future routes - blue
  
 ## В скором времени
- 
- - [Влоль Яузы](/)
 
  - [Вокруг Москвы реки (170 км.)](https://www.strava.com/routes/25158685)
 
