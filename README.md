@@ -20,6 +20,8 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
  - [Усадьба в химках](/)
  
  - [Мещерский парк](/)
+ 
+ ----------
 
  - [Дорохово - Звенигород (62 км.)](https://www.strava.com/routes/24240798)
 
@@ -29,15 +31,7 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 
  - [Вокруг Истринского вдхр (126 км.)](https://www.strava.com/routes/2712771319108920160)
    
- - [Белый городок - Загорск (+100)](/)
-
-   - Продумать маршрут, разные варианты.
-
-   - [Талдом - Сергиев Посад](https://www.strava.com/routes/16638140)
-
-   - [Савелово - Белый городок - Талдом](https://www.strava.com/routes/15132567)
-
-   - [Белый городок - Вербилки](https://www.strava.com/routes/22090769)
+ - [Белый городок - Загорск (+120 км.) примерный вариант](https://www.strava.com/routes/2750046045225862762)
    
  - [ЯП - Тула  - (?) ](/)
 
