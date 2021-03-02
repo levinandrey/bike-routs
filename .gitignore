@@ -1,2 +1,5 @@
 env-strava/
+env-strava-rexp/
+env-rexp-strava/
 .ipynb_checkpoints/
+strava_tokens.json
