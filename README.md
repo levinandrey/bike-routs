@@ -235,6 +235,8 @@ https://yandex.ru/maps/?um=constructor%3Aec53959be72e966aab2de14dfef1fc3a52f8507
 - - https://www.google.com/maps/d/viewer?mid=1RuiTIysUrvqsTe1Qk5rHXYdZDmIVVw1k&ll=56.885933641020614%2C35.331841000000004&z=9
 
 
+https://www.notion.so/andreylevin/Dev-to-github-0407364ed03743d4b17be665f428c954
+
 
 
 ## Временные значения
